@@ -2,7 +2,7 @@
 
 These source codes are provided for re-generating all figures of the following work (available [here](https://www.biorxiv.org/content/10.1101/2021.06.12.447639v1.abstract)):
 
-> RahmanSetayesh, Alireza, Ali Ghazizadeh, and Farokh Marvasti. "Feedback alignment with weight normalization can provide a biologically plausible mechanism for learning." bioRxiv (2021).
+> RahmanSetayesh, Alireza, Ali Ghazizadeh, and Farokh Marvasti. "The underlying mechanisms of alignment in error backpropagation through arbitrary weights" bioRxiv (2021).
 
 The strategy in all of these codes is to save results in a directory and then load the results for plotting the figures.
 
